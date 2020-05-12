@@ -21,8 +21,6 @@ class ViewController: UIViewController {
 		
 		// TODO: get permission
 		requestPermissionAndShowCamera()
-		showCamera()
-		
 	}
       
       private func requestPermissionAndShowCamera() {

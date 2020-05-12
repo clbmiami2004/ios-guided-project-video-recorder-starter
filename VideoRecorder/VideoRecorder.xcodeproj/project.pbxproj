@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		17C8807A246A47F100606A5F /* MoviePlayerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 17C88079246A47F100606A5F /* MoviePlayerView.swift */; };
 		BD891F2A234504D00035EB8C /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD891F29234504D00035EB8C /* AppDelegate.swift */; };
 		BD891F2C234504D00035EB8C /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD891F2B234504D00035EB8C /* SceneDelegate.swift */; };
 		BD891F2E234504D00035EB8C /* CameraViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD891F2D234504D00035EB8C /* CameraViewController.swift */; };
@@ -18,6 +19,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		17C88079246A47F100606A5F /* MoviePlayerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MoviePlayerView.swift; sourceTree = "<group>"; };
 		BD891F26234504D00035EB8C /* VideoRecorder.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = VideoRecorder.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		BD891F29234504D00035EB8C /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		BD891F2B234504D00035EB8C /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -69,6 +71,7 @@
 				BD891F32234504D20035EB8C /* Assets.xcassets */,
 				BD891F34234504D20035EB8C /* LaunchScreen.storyboard */,
 				BD891F37234504D20035EB8C /* Info.plist */,
+				17C88079246A47F100606A5F /* MoviePlayerView.swift */,
 			);
 			path = VideoRecorder;
 			sourceTree = "<group>";
@@ -148,6 +151,7 @@
 				BD891F3E2345055E0035EB8C /* CameraPreviewView.swift in Sources */,
 				BD891F2E234504D00035EB8C /* CameraViewController.swift in Sources */,
 				BD891F2A234504D00035EB8C /* AppDelegate.swift in Sources */,
+				17C8807A246A47F100606A5F /* MoviePlayerView.swift in Sources */,
 				BD891F2C234504D00035EB8C /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
