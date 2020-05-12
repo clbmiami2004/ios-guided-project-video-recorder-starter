@@ -52,10 +52,6 @@ class ViewController: UIViewController {
           }
       }
       
-      private func showCamera() {
-          
-      }
-	
 	private func showCamera() {
 		performSegue(withIdentifier: "ShowCamera", sender: self)
 	}
